@@ -1,0 +1,8 @@
+googletrans==4.0.0rc1
+gTTS
+playsound==1.2.2
+Pillow
+PyPDF2
+indic-transliteration
+SpeechRecognition
+PyAudio
